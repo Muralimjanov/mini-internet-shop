@@ -1,0 +1,18 @@
+.nav_bar{
+    width          : 100%;
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+}
+
+.nav_bar1 {
+    width: 400px;
+    justify-content: space-around;
+    display        : flex;
+    align-items    : center;
+}
+
+.nav_a{
+    text-decoration: none;
+    color: #fff;
+}

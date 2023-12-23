@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "name": "iPhone 6",
+            "id": 1,
+            "categories": "Apple",
+            "data": {
+                "date": "12-12-23",
+                "url": "https://object.pscloud.io/cms/cms/Photo/img_0_77_1220_1.jpg"
+            }
+        },
+        {
+            "name": "iPhone 7",
+            "id": 2,
+            "categories": "Apple",
+            "data": {
+                "date": "12-12-23",
+                "url": "https://object.pscloud.io/cms/cms/Photo/img_0_77_1084_0_1.jpg"
+            }
+        },
+        {
+            "name": "iPhone 8",
+            "id": 3,
+            "categories": "Apple",
+            "data": {
+                "date": "12-12-23",
+                "url": "https://m.media-amazon.com/images/I/51w1csySD4L.jpg"
+            }
+        },
+        {
+            "name": "iPhone 9",
+            "id": 4,
+            "categories": "Apple",
+            "data": {
+                "date": "12-12-23",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEw39-eOJf43hyM-VrH3RXjtJNamNgw_4nen8nwh8gcSlM27VoRsVALFZavYm5wBzFRsQ&usqp=CAU"
+            }
+        },
+        {
+            "name": "iPhone 10",
+            "id": 5,
+            "categories": "Apple",
+            "data": {
+                "date": "12-12-23",
+                "url": "https://object.pscloud.io/cms/cms/Photo/img_0_77_1457_0.jpg"
+            }
+        },
+        {
+            "name": "iPhone 11",
+            "id": 6,
+            "categories": "Apple",
+            "data": {
+                "date": "12-12-23",
+                "url": "https://www.myphone.kg/files/media/7/7691.jpg"
+            }
+        }
+    ]
+}
